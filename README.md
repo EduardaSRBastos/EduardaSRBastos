@@ -35,7 +35,7 @@
 <p>&nbsp</p>
 <h2>My GitHub Stats: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/EduardaSRBastos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=1a212b&langs_count=6)](https://github.com/EduardaSRBastos)
 
 
 <!--
