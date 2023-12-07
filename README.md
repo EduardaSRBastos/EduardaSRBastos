@@ -2,7 +2,7 @@
 
 <a href="mailto:eduardasofia2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardabastos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://eduardasrbastos.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 <p>&nbsp</p>
 <h2> Languages and Tools: </h2>
