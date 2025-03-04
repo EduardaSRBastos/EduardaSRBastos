@@ -46,7 +46,19 @@
 </p>
 
 <p>&nbsp</p>
-<h2>My GitHub Stats: </h2>
+<h2>Web Projects: </h2>
+
+| Technology   | Project Name | Description |
+|-------------|-------------|-------------|
+| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | A modern food discovery web app. |
+| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio. |
+| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL. |
+| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools. |
+| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects/cssProjects.html) | Various CSS animations. |
+| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle/escape-puzzle.html) | A collection of puzzles. |
+
+<p>&nbsp</p>
+<h2>GitHub Stats: </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&size_weight=0.5&count_weight=0.5&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=1a212b&langs_count=6)](https://github.com/EduardaSRBastos?tab=repositories)
 
