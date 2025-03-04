@@ -1,8 +1,10 @@
-<h1> Hi! I'm Eduarda. </h1>
+<h1 align="center"> Hi! I'm Eduarda</h1>
 
+<div align="center">
 <a href="mailto:eduardasofia2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/eduardabastos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://eduardasrbastos.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</div>
 
 <p>&nbsp</p>
 <h2> Languages and Tools: </h2>
@@ -50,7 +52,7 @@
 
 | Technology   | Project Name | Description |
 |-------------|-------------|-------------|
-| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | A modern food discovery web app. |
+| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer. |
 | React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio. |
 | Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL. |
 | Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools. |
