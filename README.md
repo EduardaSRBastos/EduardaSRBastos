@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Eduarda</h1>
+<h1 align="center"> Hi, I'm Eduarda!</h1>
 
 <div align="center">
 <a href="mailto:eduardasofia2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -62,8 +62,9 @@
 <p>&nbsp</p>
 <h2>GitHub Stats: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&size_weight=0.5&count_weight=0.5&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=1a212b&langs_count=6)](https://github.com/EduardaSRBastos?tab=repositories)
+        ![](https://komarev.com/ghpvc/?username=EduardaSRBastos&color=yellow&abbreviated=true&label=Views)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&size_weight=0.5&count_weight=0.5&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=1a212b&langs_count=6)](https://github.com/EduardaSRBastos?tab=repositories)
 
 <!--
 **EduardaSRBastos/EduardaSRBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
