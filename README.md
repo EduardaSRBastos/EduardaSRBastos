@@ -62,7 +62,7 @@
 <p>&nbsp</p>
 <h2>GitHub Stats: </h2>
 
-        ![](https://komarev.com/ghpvc/?username=EduardaSRBastos&color=yellow&abbreviated=true&label=Views)
+         ![](https://komarev.com/ghpvc/?username=EduardaSRBastos&color=yellow&abbreviated=true&label=Views)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSRBastos&size_weight=0.5&count_weight=0.5&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=1a212b&langs_count=6)](https://github.com/EduardaSRBastos?tab=repositories)
 
