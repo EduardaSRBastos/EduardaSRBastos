@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Eduarda!</h1>
+<h1 align="center"> Hello, World! <br> I'm Eduarda!</h1>
 
 <div align="center">
 <a href="mailto:eduardasofia2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
