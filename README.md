@@ -10,8 +10,6 @@
 <h2> Languages and Tools: </h2>
 <h4>Languages: </h4>
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C">&nbsp
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++">&nbsp
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java">&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
@@ -22,15 +20,13 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
 </p><p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">&nbsp
-<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" title="Chakra UI">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">
 </p>
 
 <h4>Tools: </h4>
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" title="Sublime Text">&nbsp
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git">&nbsp
 </p><p>
 <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp
@@ -42,22 +38,19 @@
 </p><p>
 <img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp
-</p><p> 
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda">&nbsp
-<img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" title="Spyder IDE">&nbsp
 </p>
 
 <p>&nbsp</p>
 <h2>Web Projects: </h2>
 
-| Technology   | Project Name | Description |
-|-------------|-------------|-------------|
-| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer. |
-| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio. |
-| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL. |
-| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools. |
-| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects/cssProjects.html) | Various CSS animations. |
-| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle/escape-puzzle.html) | A collection of puzzles. |
+| Technology   | Project Website | Description | Repository |
+|-------------|-------------|-------------|-------------|
+| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer. |  |
+| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio. | [Portfolio](https://github.com/EduardaSRBastos/portfolio) |
+| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL. | [Candyland](https://github.com/EduardaSRBastos/WebGL-Project) |
+| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools. | [My Essential Toolbox](https://github.com/EduardaSRBastos/my-essential-toolbox) |
+| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects) | Various CSS animations. | [CSS Projects](https://github.com/EduardaSRBastos/css-projects) |
+| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle) | A collection of puzzles. | [Escape Puzzle](https://github.com/EduardaSRBastos/escape-puzzle) |
 
 <p>&nbsp</p>
 <h2>GitHub Stats: </h2>
