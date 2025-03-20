@@ -45,12 +45,19 @@
 
 | Technology   | Project Website | Description | Repository |
 |-------------|-------------|-------------|-------------|
-| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer. |  |
-| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio. | [Portfolio](https://github.com/EduardaSRBastos/portfolio) |
-| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL. | [Candyland](https://github.com/EduardaSRBastos/WebGL-Project) |
-| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools. | [My Essential Toolbox](https://github.com/EduardaSRBastos/my-essential-toolbox) |
-| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects) | Various CSS animations. | [CSS Projects](https://github.com/EduardaSRBastos/css-projects) |
-| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle) | A collection of puzzles. | [Escape Puzzle](https://github.com/EduardaSRBastos/escape-puzzle) |
+| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer |  |
+| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio | [Portfolio](https://github.com/EduardaSRBastos/portfolio) |
+| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL | [Candyland](https://github.com/EduardaSRBastos/WebGL-Project) |
+| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools | [My Essential Toolbox](https://github.com/EduardaSRBastos/my-essential-toolbox) |
+| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects) | Various CSS animations | [CSS Projects](https://github.com/EduardaSRBastos/css-projects) |
+| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle) | A collection of puzzles | [Escape Puzzle](https://github.com/EduardaSRBastos/escape-puzzle) |
+
+<h2>Dataweave Projects: </h2>
+
+| Repository | Description |
+|-------------|-------------|
+| [Dataweave Utilities](https://github.com/EduardaSRBastos/dataweave-utilities) | Collection of useful dataweave functions |
+| [Advent of Code 2024](https://github.com/EduardaSRBastos/advent-of-code-2024) | Advent of Code 2024 - DW Edition |
 
 <p>&nbsp</p>
 <h2>GitHub Stats: </h2>
