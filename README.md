@@ -6,58 +6,146 @@
 <a href="https://eduardasrbastos.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-<p>&nbsp</p>
-<h2> Languages and Tools: </h2>
-<h4>Languages: </h4>
-<p>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java">&nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
-</p><p>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML">&nbsp
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS">&nbsp
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">&nbsp
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
-</p><p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">
-</p>
+<p>&nbsp;</p>
+<h2>Languages and Tools:</h2>
 
-<h4>Tools: </h4>
-<p>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git">&nbsp
-</p><p>
-<img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">&nbsp
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Power BI">&nbsp
-</p><p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma">&nbsp
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" title="Adobe Photoshop">&nbsp
-</p><p>
-<img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp
-</p>
+<h3>Languages:</h3>
+<table>
+  <tbody>
+    <tr>
+      <td><h4>Backend</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET">&nbsp
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java">&nbsp
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Frontend</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML">&nbsp
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS">&nbsp
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">&nbsp
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Web Frameworks</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p>&nbsp</p>
+<h3>Tools:</h3>
+<table>
+  <tbody>
+    <tr>
+      <td><h4>IDE</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp
+        <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git">
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Data</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">&nbsp
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Power BI">&nbsp
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Design</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma">&nbsp
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" title="Adobe Photoshop">&nbsp
+      </td>
+    </tr>
+    <tr>
+      <td><h4>Other</h4></td>
+      <td>
+        <img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp
+        <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>&nbsp;</p>
 <h2>Web Projects: </h2>
-
-| Technology   | Project Website | Description | Repository |
-|-------------|-------------|-------------|-------------|
-| Angular | [Tasty Finds](https://tastyfinds.vercel.app) | My recipe organizer |  |
-| React   | [Portfolio](https://eduardasrbastos.github.io/portfolio) | My personal portfolio | [Portfolio](https://github.com/EduardaSRBastos/portfolio) |
-| Three.js | [Candyland](https://eduardasrbastos.github.io/WebGL-Project) | A 3D candy-themed world built with WebGL | [Candyland](https://github.com/EduardaSRBastos/WebGL-Project) |
-| Vanilla JS | [My Essential Toolbox](https://eduardasrbastos.github.io/my-essential-toolbox) | A collection of essential web tools | [My Essential Toolbox](https://github.com/EduardaSRBastos/my-essential-toolbox) |
-| Vanilla JS | [CSS Projects](https://eduardasrbastos.github.io/css-projects) | Various CSS animations | [CSS Projects](https://github.com/EduardaSRBastos/css-projects) |
-| Vanilla JS | [Escape Puzzle](https://eduardasrbastos.github.io/escape-puzzle) | A collection of puzzles | [Escape Puzzle](https://github.com/EduardaSRBastos/escape-puzzle) |
+<table>
+  <thead>
+    <tr>
+      <th><h4>Technology</h4></th>
+      <th><h4>Project Website</h4></th>
+      <th><h4>Description</h4></th>
+      <th><h4>Repository</h4></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Angular</td>
+      <td><a href="https://tastyfinds.vercel.app">Tasty Finds</a></td>
+      <td>My recipe organizer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td><a href="https://eduardasrbastos.github.io/portfolio">Portfolio</a></td>
+      <td>My personal portfolio</td>
+      <td><a href="https://github.com/EduardaSRBastos/portfolio">Portfolio</a></td>
+    </tr>
+    <tr>
+      <td>Three.js</td>
+      <td><a href="https://eduardasrbastos.github.io/WebGL-Project">Candyland</a></td>
+      <td>A 3D candy-themed world built with WebGL</td>
+      <td><a href="https://github.com/EduardaSRBastos/WebGL-Project">Candyland</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/my-essential-toolbox">My Essential Toolbox</a></td>
+      <td>A collection of essential web tools</td>
+      <td><a href="https://github.com/EduardaSRBastos/my-essential-toolbox">My Essential Toolbox</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/css-projects">CSS Projects</a></td>
+      <td>Various CSS animations</td>
+      <td><a href="https://github.com/EduardaSRBastos/css-projects">CSS Projects</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/escape-puzzle">Escape Puzzle</a></td>
+      <td>A collection of puzzles</td>
+      <td><a href="https://github.com/EduardaSRBastos/escape-puzzle">Escape Puzzle</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Dataweave Projects: </h2>
-
-| Repository | Description |
-|-------------|-------------|
-| [Dataweave Utilities](https://github.com/EduardaSRBastos/dataweave-utilities) | Collection of useful dataweave functions |
-| [Advent of Code 2024](https://github.com/EduardaSRBastos/advent-of-code-2024) | Advent of Code 2024 - DW Edition |
+<table>
+  <thead>
+    <tr>
+      <th><h4>Repository</h4></th>
+      <th><h4>Description</h4></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/EduardaSRBastos/dataweave-utilities">Dataweave Utilities</a></td>
+      <td>Collection of useful dataweave functions</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EduardaSRBastos/advent-of-code-2024">Advent of Code 2024</a></td>
+      <td>Advent of Code 2024 - DW Edition</td>
+    </tr>
+  </tbody>
+</table>
 
 <p>&nbsp</p>
 <h2>GitHub Stats: </h2>
