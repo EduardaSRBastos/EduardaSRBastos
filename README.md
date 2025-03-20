@@ -13,7 +13,7 @@
 <table>
   <tbody>
     <tr>
-      <td><h4>Backend</h4></td>
+      <td><b>Backend</b></td>
       <td>
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET">&nbsp
@@ -22,7 +22,7 @@
       </td>
     </tr>
     <tr>
-      <td><h4>Frontend</h4></td>
+      <td><b>Frontend</b></td>
       <td>
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML">&nbsp
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS">&nbsp
@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td><h4>Web Frameworks</h4></td>
+      <td><b>Web Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">
@@ -44,7 +44,7 @@
 <table>
   <tbody>
     <tr>
-      <td><h4>IDE</h4></td>
+      <td><b>IDE</b></td>
       <td>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp
@@ -52,7 +52,7 @@
       </td>
     </tr>
     <tr>
-      <td><h4>Data</h4></td>
+      <td><b>Data</b></td>
       <td>
         <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">&nbsp
@@ -60,14 +60,14 @@
       </td>
     </tr>
     <tr>
-      <td><h4>Design</h4></td>
+      <td><b>Design</b></td>
       <td>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma">&nbsp
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" title="Adobe Photoshop">&nbsp
       </td>
     </tr>
     <tr>
-      <td><h4>Other</h4></td>
+      <td><b>Other</b></td>
       <td>
         <img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp
         <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp
@@ -81,10 +81,10 @@
 <table>
   <thead>
     <tr>
-      <th><h4>Technology</h4></th>
-      <th><h4>Project Website</h4></th>
-      <th><h4>Description</h4></th>
-      <th><h4>Repository</h4></th>
+      <th>Technology</th>
+      <th>Project Website</th>
+      <th>Description</th>
+      <th>Repository</th>
     </tr>
   </thead>
   <tbody>
@@ -131,8 +131,8 @@
 <table>
   <thead>
     <tr>
-      <th><h4>Repository</h4></th>
-      <th><h4>Description</h4></th>
+      <th>Repository</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
