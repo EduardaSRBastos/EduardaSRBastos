@@ -114,6 +114,12 @@
     </tr>
     <tr>
       <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/resume-builder">Resume Builder</a></td>
+      <td>A customizable resume builder</td>
+      <td><a href="https://github.com/EduardaSRBastos/resume-builder">Resume Builder</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/css-projects">CSS Projects</a></td>
       <td>Various CSS animations</td>
       <td><a href="https://github.com/EduardaSRBastos/css-projects">CSS Projects</a></td>
