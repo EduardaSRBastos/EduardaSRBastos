@@ -142,6 +142,10 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://github.com/EduardaSRBastos/dataweave-challenges">DataWeave Challenges</a></td>
+      <td>DataWeave challenges from ProstDev.com </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/EduardaSRBastos/dataweave-utilities">Dataweave Utilities</a></td>
       <td>Collection of useful dataweave functions</td>
