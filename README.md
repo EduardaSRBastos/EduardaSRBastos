@@ -147,6 +147,10 @@
       <td>DataWeave challenges from ProstDev.com </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/EduardaSRBastos/dataweave-exercises">DataWeave Exercises</a></td>
+      <td>Dataweave practical exercises</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/EduardaSRBastos/dataweave-utilities">Dataweave Utilities</a></td>
       <td>Collection of useful dataweave functions</td>
     </tr>
