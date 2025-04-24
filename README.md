@@ -118,6 +118,12 @@
       <td>A customizable resume builder</td>
       <td><a href="https://github.com/EduardaSRBastos/resume-builder">Resume Builder</a></td>
     </tr>
+     <tr>
+      <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/calculator/">The Cutest Calculator</a></td>
+      <td>A fluffy, aesthetic calculator with hidden tricks and a cat-like charm</td>
+      <td><a href="https://github.com/EduardaSRBastos/calculator">Calculator</a></td>
+    </tr>
     <tr>
       <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/css-projects">CSS Projects</a></td>
