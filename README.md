@@ -95,18 +95,6 @@
       <td></td>
     </tr>
     <tr>
-      <td>React</td>
-      <td><a href="https://eduardasrbastos.github.io/portfolio">Portfolio</a></td>
-      <td>My personal portfolio</td>
-      <td><a href="https://github.com/EduardaSRBastos/portfolio">Portfolio</a></td>
-    </tr>
-    <tr>
-      <td>Three.js</td>
-      <td><a href="https://eduardasrbastos.github.io/WebGL-Project">Candyland</a></td>
-      <td>A 3D candy-themed world built with WebGL</td>
-      <td><a href="https://github.com/EduardaSRBastos/WebGL-Project">Candyland</a></td>
-    </tr>
-    <tr>
       <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/my-essential-toolbox">My Essential Toolbox</a></td>
       <td>A collection of essential web tools</td>
@@ -135,6 +123,18 @@
       <td><a href="https://eduardasrbastos.github.io/escape-puzzle">Escape Puzzle</a></td>
       <td>A collection of puzzles</td>
       <td><a href="https://github.com/EduardaSRBastos/escape-puzzle">Escape Puzzle</a></td>
+    </tr>
+     <tr>
+      <td>React</td>
+      <td><a href="https://eduardasrbastos.github.io/portfolio">Portfolio</a></td>
+      <td>My personal portfolio</td>
+      <td><a href="https://github.com/EduardaSRBastos/portfolio">Portfolio</a></td>
+    </tr>
+    <tr>
+      <td>Three.js</td>
+      <td><a href="https://eduardasrbastos.github.io/WebGL-Project">Candyland</a></td>
+      <td>A 3D candy-themed world built with WebGL</td>
+      <td><a href="https://github.com/EduardaSRBastos/WebGL-Project">Candyland</a></td>
     </tr>
   </tbody>
 </table>
