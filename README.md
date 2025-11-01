@@ -106,6 +106,12 @@
       <td>A customizable resume builder</td>
       <td><a href="https://github.com/EduardaSRBastos/resume-builder">Resume Builder</a></td>
     </tr>
+    <tr>
+      <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/what-to-eat">What to Eat</a></td>
+      <td>An interactive web app to choose what to eat by swiping food options left or right</td>
+      <td><a href="https://github.com/EduardaSRBastos/what-to-eat">What to Eat</a></td>
+    </tr>
      <tr>
       <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/calculator/">The Cutest Calculator</a></td>
