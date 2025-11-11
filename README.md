@@ -102,11 +102,17 @@
     </tr>
     <tr>
       <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/pin-journey">Pin Journey</a></td>
+      <td>An interactive map to track and visualize the places you've been</td>
+      <td><a href="https://github.com/EduardaSRBastos/pin-journey">Pin Journey</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/resume-builder">Resume Builder</a></td>
       <td>A customizable resume builder</td>
       <td><a href="https://github.com/EduardaSRBastos/resume-builder">Resume Builder</a></td>
     </tr>
-     <tr>
+    <tr>
       <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/vision-simulator">Vision Simulator</a></td>
       <td>A vision simulator that recreates how humans and animals perceive the world</td>
@@ -118,9 +124,9 @@
       <td>A web app to choose what to eat by swiping food options left or right</td>
       <td><a href="https://github.com/EduardaSRBastos/what-to-eat">What to Eat</a></td>
     </tr>
-     <tr>
+    <tr>
       <td>Vanilla JS</td>
-      <td><a href="https://eduardasrbastos.github.io/calculator/">The Cutest Calculator</a></td>
+      <td><a href="https://eduardasrbastos.github.io/calculator/">Calculator</a></td>
       <td>An aesthetic calculator with hidden tricks and a cat-like style</td>
       <td><a href="https://github.com/EduardaSRBastos/calculator">Calculator</a></td>
     </tr>
@@ -136,7 +142,7 @@
       <td>A collection of puzzles</td>
       <td><a href="https://github.com/EduardaSRBastos/escape-puzzle">Escape Puzzle</a></td>
     </tr>
-     <tr>
+    <tr>
       <td>React</td>
       <td><a href="https://eduardasrbastos.github.io/portfolio">Portfolio</a></td>
       <td>My personal portfolio</td>
