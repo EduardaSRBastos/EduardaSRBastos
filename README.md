@@ -120,6 +120,12 @@
     </tr>
     <tr>
       <td>Vanilla JS</td>
+      <td><a href="https://eduardasrbastos.github.io/malassezia-checker">Malassezia Checker</a></td>
+      <td>A tool that checks ingredients for potential Malassezia triggers.</td>
+      <td><a href="https://github.com/EduardaSRBastos/malassezia-checker">Malassezia Checker</a></td>
+    </tr>
+    <tr>
+      <td>Vanilla JS</td>
       <td><a href="https://eduardasrbastos.github.io/what-to-eat">What to Eat</a></td>
       <td>A web app to choose what to eat by swiping food options left or right</td>
       <td><a href="https://github.com/EduardaSRBastos/what-to-eat">What to Eat</a></td>
