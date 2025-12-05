@@ -10,43 +10,36 @@
 <p>&nbsp;</p>
 <h2>Languages & Tools</h2>
 
-<table>
-<tr>
-<td valign="top">
-
 <h3>Languages</h3>
 <table>
   <tbody>
     <tr>
       <td><b>Backend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp;
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET">&nbsp;
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java">&nbsp;
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#">&nbsp
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET">&nbsp
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java">&nbsp
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python">
       </td>
     </tr>
     <tr>
       <td><b>Frontend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML">&nbsp;
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS">&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">&nbsp;
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML">&nbsp
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS">&nbsp
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">&nbsp
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
       </td>
     </tr>
     <tr>
       <td><b>Web Frameworks</b></td>
       <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp;
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">&nbsp
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular">
       </td>
     </tr>
   </tbody>
 </table>
-
-</td>
-<td valign="top" style="padding-left: 40px;">
 
 <h3>Tools</h3>
 <table>
@@ -54,38 +47,34 @@
     <tr>
       <td><b>IDE</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp;
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp;
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Code">&nbsp
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio">&nbsp
         <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git">
       </td>
     </tr>
     <tr>
       <td><b>Data</b></td>
       <td>
-        <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp;
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">&nbsp;
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Power BI">&nbsp;
+        <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" title="DBeaver">&nbsp
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">&nbsp
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Power BI">&nbsp
       </td>
     </tr>
     <tr>
       <td><b>Design</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma">&nbsp;
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" title="Adobe Photoshop">&nbsp;
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma">&nbsp
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" title="Adobe Photoshop">&nbsp
       </td>
     </tr>
     <tr>
       <td><b>Other</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp;
-        <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp;
+        <img src="https://img.shields.io/badge/Mulesoft-00A0DF.svg?style=for-the-badge&logo=Mulesoft&logoColor=white" title="Mulesoft">&nbsp
+        <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">&nbsp
       </td>
     </tr>
   </tbody>
-</table>
-
-</td>
-</tr>
 </table>
 
 <p>&nbsp;</p>
